@@ -2,7 +2,7 @@ new Vue({
 el: '#app',
 data() {
 return {
-chuckNorrisImage: 'https://upload.wikimedia.org/wikipedia/commons/7/7d/Chuck_Norris_in_The_Way_of_the_Dragons.jpg', 
+chuckNorrisImage: 'https://static1.srcdn.com/wordpress/wp-content/uploads/2021/09/Bruce-Lee-Chuck-Norris-Way-of-the-Dragon.jpg', 
 };
 },
 methods: {
